@@ -219,7 +219,7 @@ Current work: making her dialogue acting match Zenless Zone Zero, measured from 
 
 I'm Thinh Nguyen, a finance student at Rutgers University (class of 2029) and an accounting analyst intern, and I build my own software in Python and JavaScript. I'm aiming for fintech, financial systems and FP&A roles, where knowing both the accounting and the code helps.
 
-📊 At work I process vendor invoices in Microsoft Dynamics 365. My first project there: a daily duplicate-invoice check in Excel Power Query that flags invoices at risk of being paid twice. I wrote the rules, Claude (AI) wrote the queries, and I set it up and run it every day.
+📊 At work I process vendor invoices in Microsoft Dynamics 365. My first project there: a daily duplicate-invoice check in Excel Power Query that flags invoices at risk of being paid twice. I wrote the rules, Claude (AI) wrote the queries and the dashboard, and I set it up and run it every day.
 
 Remielle isn't a finance tool, but it taught me how APIs, real-time data and automated testing fit together. I set the design, direct AI coding agents (Claude Code) to write much of the code, and test each feature myself.
 
